@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.star {
+  margin: 2px;
+  width: 28px;
+  height: 28px;
+  border: none;
+  background: none;
+  color: #b3b3b3b3;
+  font-size: 32px;
+  cursor: pointer;
+}
+.on {
+  color: var(--dynamic-color, #b3b3b3b3);
+}
+.of {
+  color: #b3b3b3b3;
+}
+h2 {
+  color: green;
+}
